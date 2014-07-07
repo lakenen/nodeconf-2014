@@ -1,0 +1,8 @@
+{
+  "name": "data-plumber-cameron",
+  "version": "0.0.1",
+  "gasket": [
+    "xml-json",
+    "jsonfilter body.vehicle.*.$.id"
+  ]
+}

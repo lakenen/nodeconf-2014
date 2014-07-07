@@ -1,0 +1,7 @@
+{
+  "name": "data-plumber-cameron",
+  "version": "0.0.1",
+  "gasket": [
+    "jsonfilter rows.*.doc.song"
+  ]
+}
